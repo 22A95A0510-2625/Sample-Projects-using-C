@@ -51,7 +51,7 @@ int main()
 		printf("1)Internet Explorer\n");
 		printf("2)Mosaic\n");
 		printf("3)Mozilla\n");
-		printf("Nexus\n");
+		printf("4)Nexus\n");
 		
 		printf("Enter your answer:\n");
 		scanf("%d",&ans2);
@@ -72,8 +72,8 @@ int main()
 		printf("3)First Computer virus is known as??\n\n");
 		printf("1)Rabbit\n");
 		printf("2)Creeper Virus\n");
-		printf("EIK cloner\n");
-		printf("SCA Virus\n");
+		printf("3)EIK cloner\n");
+		printf("4)SCA Virus\n");
 		
 		printf("Enter your answer:\n");
 		scanf("%d",&ans3);
